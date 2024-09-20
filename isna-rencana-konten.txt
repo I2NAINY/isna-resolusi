@@ -3,9 +3,11 @@ RENCANA KONTEN ISNA
 - JavaScript
   * ES6
   * FrameWork JavaScript
-    ^ Angular
+    ^ Vue
     ^ React
+- Struktur Data Dasar
 - PHP FrameWorks
   ^ Laravel
 - Interview
 - Vlogs
+- Python
