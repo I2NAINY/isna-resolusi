@@ -3,6 +3,7 @@ RENCANA KONTEN ISNA
 - JavaScript
   * ES6
   * FrameWork JavaScript
+- Struktur Data Dasar
 - PHP FrameWorks
 - Interview
 - Vlogs
