@@ -4,6 +4,7 @@ RENCANA KONTEN ISNA
   * ES6
   * FrameWork JavaScript
     ^ Vue
+    ^ React
 - Struktur Data Dasar
 - PHP FrameWorks
   ^ Laravel
